@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: e5b40f46c9d8d224ab7a44745978568b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_0"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 696
+        width: 243
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c4ef6e256396b40b3be4fd7dd6d876
+      internalID: 1675861594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_1"
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 648
+        width: 85
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90519a6bd9bf342409dbaf6782a5f0e9
+      internalID: 1895209936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_2"
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 660
+        width: 253
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfba72c2be0a9a4388c4da05da981e0
+      internalID: -625060556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_3"
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 656
+        width: 282
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372e6ce7d1ab8a14dbd91da8db979210
+      internalID: 1089672270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_4"
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 473
+        width: 83
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca1af1dd6ce277438a7afd1bd4a9c6a
+      internalID: -1207751103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_5"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 473
+        width: 142
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bf36a4d30120c4c8c8e9dd1e0a66ca
+      internalID: 1360280965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_6"
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 462
+        width: 69
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56192662d0a8d0d4599635b833c486d7
+      internalID: 1332702118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_7"
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 352
+        width: 253
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e618a1b10c9fdc44b467702b622213b
+      internalID: 1740379995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_8"
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 352
+        width: 252
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b0720ef5bcc9b4080344eece3364c5
+      internalID: 1521389106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_9"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 231
+        width: 70
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c59d3c55f110f489456dba1d894ffc
+      internalID: -441925350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_10"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 361
+        width: 128
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fe5c33d27f98a4ab086cf60eacda4d
+      internalID: -1714204806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_11"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 234
+        width: 71
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6297111632c9214a8dad9c39de40c4a
+      internalID: 76929199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_12"
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 322
+        width: 42
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324be9f424bd08e4eb4c1ac1a1e952b4
+      internalID: -393819415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_13"
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 233
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0746b2073ec8cc47899162b5d0ab5ee
+      internalID: 932348375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_14"
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 46
+        width: 243
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3decff44b93174c89e8512e5ca1eb7
+      internalID: -829119194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_15"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 122
+        width: 54
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db73b4bdfb5e498448239fc8168d8f80
+      internalID: 1852297859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_16"
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 129
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acee4e9e5de0808449ddc796e8b74a80
+      internalID: -1950027331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_17"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 42
+        width: 115
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6427268af4210cd4b87a089172865c67
+      internalID: 927056681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_18"
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 41
+        width: 114
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0189fca9b3256a4ab59d57f96fe2471
+      internalID: 1899564278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_19"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4601c5b412c3bb5418913bdb8bf3f91c
+      internalID: 1583471432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_0": 1675861594
+      "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_1": 1895209936
+      "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_10": -1714204806
+      "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_11": 76929199
+      "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_12": -393819415
+      "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_13": 932348375
+      "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_14": -829119194
+      "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_15": 1852297859
+      "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_16": -1950027331
+      "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_17": 927056681
+      "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_18": 1899564278
+      "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_19": 1583471432
+      "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_2": -625060556
+      "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_3": 1089672270
+      "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_4": -1207751103
+      "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_5": 1360280965
+      "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_6": 1332702118
+      "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_7": 1740379995
+      "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_8": 1521389106
+      "2D-Game-Zombie-Character-\u2013-Free-Sprite-Pack-1-5_9": -441925350
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
