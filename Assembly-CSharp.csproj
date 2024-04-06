@@ -60,10 +60,26 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.13f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Spawner.cs" />
-    <Compile Include="Assets\Scripts\Bullet.cs" />
-    <Compile Include="Assets\Scripts\EnemyMove.cs" />
+    <Compile Include="Assets\Scripts\Enchantmants\EmptyEnchantment.cs" />
+    <Compile Include="Assets\Scripts\Wands\Wand.cs" />
+    <Compile Include="Assets\Scripts\Actors\Vampire.cs" />
+    <Compile Include="Assets\Scripts\Actors\Hero.cs" />
+    <Compile Include="Assets\Scripts\DOTEffect.cs" />
+    <Compile Include="Assets\Scripts\Enchantmants\EnchantmentBar.cs" />
+    <Compile Include="Assets\Scripts\Balance.cs" />
+    <Compile Include="Assets\Scripts\Enchantmants\DefaultShootEnchantment.cs" />
+    <Compile Include="Assets\Scripts\TimeWorkEnemy.cs" />
+    <Compile Include="Assets\Scripts\HealthBar.cs" />
+    <Compile Include="Assets\Scripts\Actors\Actor.cs" />
+    <Compile Include="Assets\Scripts\Enchantmants\DOTEnchantment.cs" />
     <Compile Include="Assets\Scripts\Health.cs" />
+    <Compile Include="Assets\Scripts\TimeWork.cs" />
+    <Compile Include="Assets\Scripts\Actors\Zombie.cs" />
+    <Compile Include="Assets\Scripts\Enchantmants\Enchantment.cs" />
+    <Compile Include="Assets\Scripts\DOTWorker.cs" />
+    <Compile Include="Assets\Scripts\StaticConstants.cs" />
+    <Compile Include="Assets\Scripts\Projectiles\Bullet.cs" />
+    <Compile Include="Assets\Scripts\Shoot.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

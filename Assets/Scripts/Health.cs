@@ -1,28 +1,41 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Health : MonoBehaviour
 {
+    [SerializeField] private float _maxPossibleHealth = 1000;
+
     private readonly float _minHealth = 0;
+    private float _maxHealth;
 
-    [SerializeField] private float _maxHealth;
+    public float Value { get; private set; }
 
-    private float _currentHealth;
+    public float MaxHealth => _maxHealth;
 
-    private void Start()
-    {
-        _currentHealth = _maxHealth;
-    }
+    public event UnityAction HealthChanged;
+    public event UnityAction<Health> Died;
 
     public void DecreaseHealth(float health)
     {
-        _currentHealth -= health;
-        //Mathf.Clamp(_currentHealth, _minHealth, _maxHealth);
+        health = Mathf.Clamp(health, _minHealth, _maxHealth);
+        Value -= health;
+        HealthChanged.Invoke();
 
-        if (_currentHealth <= _minHealth) 
-        { 
+        if (Value <= _minHealth)
+        {
+            Died.Invoke(this);
             Destroy(gameObject);
         }
+    }
+
+    public void SetHealth(float health)
+    {
+        _maxHealth = health;
+        _maxHealth = Mathf.Clamp(_maxHealth, _minHealth, _maxPossibleHealth);
+    }
+
+    private void Start()
+    {
+        Value = _maxHealth;
     }
 }
